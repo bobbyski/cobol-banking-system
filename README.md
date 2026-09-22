@@ -217,3 +217,4 @@ MIT
 
 
 <!-- AIPad disposable branch: verified UTF-8 save 🧪 -->
+<!-- AIPad disposable branch: explicitly reconciled draft -->
