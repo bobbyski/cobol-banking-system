@@ -214,3 +214,6 @@ These are documented architectural boundaries, not bugs:
 ## License
 
 MIT
+
+
+<!-- AIPad disposable branch: verified UTF-8 save 🧪 -->
